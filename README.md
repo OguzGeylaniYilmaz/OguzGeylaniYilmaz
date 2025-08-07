@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on .Net Projects as a Freelancer
-- 🌱 I’m currently learning React
 - 📫 How to reach me : oguzgeylaniyilmaz@gmail.com
 - My LinkedIn account - https://www.linkedin.com/in/oguzgeylaniyilmaz/
-- 
+  
 ## 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
