@@ -25,3 +25,5 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-EF4C23?style=for-the-badge&logo=.net&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%20Object%20Oriented%20Programming-8A2BE2?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF5733?style=for-the-badge)
