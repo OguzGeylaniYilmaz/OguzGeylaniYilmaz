@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on .Net Projects as a Freelancer
 - 📫 How to reach me : oguzgeylaniyilmaz@gmail.com
+
+## 🌐 Social Platforms
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/oguzgeylaniyilmaz/)  
   
 ## 💻 Tech Stack:
